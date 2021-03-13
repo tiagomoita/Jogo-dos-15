@@ -1,6 +1,4 @@
 # Jogo-dos-15
-Game that can be played in the terminal. Made during Artificial Intelligence discipline during faculty.
-
 
 Compilar o programa:
 
